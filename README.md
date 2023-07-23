@@ -1,5 +1,6 @@
 # MaaEmail
 Maa插件 完成任务后发一封电子邮件
+
 MAA地址：https://github.com/MaaAssistantArknights/MaaAssistantArknights
 
 使用方法：
